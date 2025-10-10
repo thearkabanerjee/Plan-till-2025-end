@@ -186,3 +186,10 @@ Stretch 10 min after every session.
 Weigh yourself every Monday morning.
 
 Track waist and shoulder measurements every 2 weeks — don’t trust just the scale.
+
+
+| Phase | Weight | Visible Changes                       | Focus      |
+| ----- | ------ | ------------------------------------- | ---------- |
+| 1–4   | -5 kg  | Tighter waist, better stamina         | Foundation |
+| 5–8   | -5 kg  | Visible definition in shoulders/chest | Sculpt     |
+| 9–12  | -5 kg  | Abs and athletic form                 | Peak       |
