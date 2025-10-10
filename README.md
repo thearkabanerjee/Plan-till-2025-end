@@ -2,6 +2,6 @@
 What am I planning to do before the year ends
 1. get done with the web dev part
 2. get done with the blockchain part
-3. get the grades straight for the exams.
+3. get great grades in the exams
 4. run a marathon
 5. Exercise daily 
