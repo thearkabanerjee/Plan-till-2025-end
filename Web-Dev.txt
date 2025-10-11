@@ -66,3 +66,16 @@ Routing (React Router)
 Handling forms & events
 
 Mini project: Build a multi-page Notes app
+
+Week 4 – React mastery + Styling
+
+useRef, useMemo, useCallback, Context API
+
+Custom hooks, state management intro
+
+Styling: Tailwind → Shadcn → Material UI
+
+Understand why frameworks exist (Virtual DOM, reconciliation)
+
+Project: Gmail clone (frontend only)
+(Use Context for global state, Tailwind for UI)
