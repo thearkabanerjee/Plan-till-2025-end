@@ -210,3 +210,13 @@ Afternoon (4h) – Build project applying that topic
 Night (2h) – Reflect + Notes + Revise + Git commit
 
 Every Sunday → Revision + Blog/README about what you built that week.
+
+
+
+💀 HARD TRUTH
+
+This plan is brutal. You’ll fail if you just watch tutorials.
+Every day must end with something you built — even if it’s ugly.
+Your brain learns through frustration → debugging → solution, not watching.
+
+If you do this properly, in 3 months you’ll be employable as a full-stack dev, capable of building scalable systems solo.
