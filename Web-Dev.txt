@@ -1,2 +1,14 @@
 Here is my plan for the next 3 months 
 
+⚔️ OVERVIEW STRATEGY
+
+Principle: Learn → Build → Integrate → Scale
+Every 3–4 days, you’ll ship a small project to hardwire what you learned.
+
+We’ll go in phases:
+
+Phase 1 (Weeks 1–4): Core foundations + Frontend mastery
+
+Phase 2 (Weeks 5–8): Backend, databases, APIs, and auth
+
+Phase 3 (Weeks 9–12): Full-stack, scaling, deployment, testing, and advanced systems
