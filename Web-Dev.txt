@@ -99,3 +99,17 @@ HTTP servers, methods, routes
 Express intro: routes, middlewares, body parsing, static files
 
 Mini project: Simple REST API for Todos (no DB yet)
+
+
+Week 6 – Databases + CRUD APIs
+
+Intro to Databases → SQL vs NoSQL
+
+MongoDB & Mongoose → schemas, CRUD, relationships
+
+PostgreSQL basics → CREATE TABLE, CRUD queries, joins
+
+ORMs → Prisma basics, setup, migrations, CRUD
+
+Mini project: Full CRUD API with MongoDB + Mongoose
+Optional challenge: Rebuild same API with Postgres + Prisma
