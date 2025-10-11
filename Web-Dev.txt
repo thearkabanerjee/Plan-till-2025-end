@@ -142,3 +142,10 @@ Build a simple WebSocket server
 
 Mini project: Real-time Chat app
 (Express + WS + React client)
+
+
+
+🚀 PHASE 3: ADVANCED SYSTEMS + FULL-STACK DEPLOYMENT (Weeks 9–12)
+
+Goal: Move from developer → engineer mindset. Learn Next.js, testing, scaling, monorepos.
+Deliverables: Leetcode-style app, real-time scalable project, production deploy.
