@@ -163,3 +163,15 @@ ISR, SSG
 Deployment to Vercel
 
 Project: Full-stack Notes app (Next.js + Prisma + PostgreSQL + NextAuth)
+
+Week 10 – Monorepos, CI, and DevOps
+
+What is linting, prettier, eslint
+
+Pre-commit hooks (husky)
+
+Monorepos with Yarn workspaces + Turborepo
+
+Lints in CI (GitHub Actions)
+
+Mini project: Convert your frontend + backend into a monorepo with CI setup
