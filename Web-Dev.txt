@@ -51,3 +51,18 @@ Dynamic UI rendering
 Build a small reconciler to understand React under the hood
 
 Project: Pure Frontend Todo App (LocalStorage + DOM manipulation)
+
+
+
+
+Week 3 – React foundations
+
+React setup (Vite or CRA)
+
+Components, props, hooks: useState, useEffect
+
+Routing (React Router)
+
+Handling forms & events
+
+Mini project: Build a multi-page Notes app
