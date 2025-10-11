@@ -79,3 +79,10 @@ Understand why frameworks exist (Virtual DOM, reconciliation)
 
 Project: Gmail clone (frontend only)
 (Use Context for global state, Tailwind for UI)
+
+
+
+⚙️ PHASE 2: BACKEND, DATABASES & APIs (Weeks 5–8)
+
+Goal: Master Node.js, Express, REST APIs, MongoDB, PostgreSQL, Prisma, and auth.
+Deliverables: Fully functional full-stack app (Excalidraw clone).
