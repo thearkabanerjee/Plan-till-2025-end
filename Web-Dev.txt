@@ -113,3 +113,17 @@ ORMs → Prisma basics, setup, migrations, CRUD
 
 Mini project: Full CRUD API with MongoDB + Mongoose
 Optional challenge: Rebuild same API with Postgres + Prisma
+
+
+Week 7 – Authentication + Advanced backend
+
+JWT authentication
+
+Environment secret management (Doppler)
+
+File uploads, middlewares
+
+Error handling, rate limiting basics
+
+Project: Excalidraw clone (Full Stack)
+Frontend (React) + Backend (Express + MongoDB + JWT)
