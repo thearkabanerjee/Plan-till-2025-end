@@ -12,3 +12,29 @@ Phase 1 (Weeks 1–4): Core foundations + Frontend mastery
 Phase 2 (Weeks 5–8): Backend, databases, APIs, and auth
 
 Phase 3 (Weeks 9–12): Full-stack, scaling, deployment, testing, and advanced systems
+
+
+🧠 PHASE 1: FOUNDATIONS + FRONTEND MASTERY (Weeks 1–4)
+
+Goal: Build 100% comfort with HTML, CSS, JS, DOM, Git, and React fundamentals.
+Deliverables: Functional portfolio, Todo app, Gmail clone.
+
+Week 1 – Core web + Bash + Git + JS intro
+
+HTML5 + CSS3 (Flexbox, Grid, animations)
+
+Basic Bash (cd, ls, mkdir, touch, grep, |, reverse search)
+
+Git & GitHub (init, commit, push, branches, PR)
+
+JS basics → Variables, functions, arrays, loops
+
+JS single-threaded nature & event loop basics
+
+Mini projects
+
+Build a personal portfolio website
+
+Push to GitHub Pages
+
+Write a script that uses grep and pipes to analyze text files locally
