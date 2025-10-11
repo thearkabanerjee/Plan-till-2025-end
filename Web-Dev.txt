@@ -127,3 +127,18 @@ Error handling, rate limiting basics
 
 Project: Excalidraw clone (Full Stack)
 Frontend (React) + Backend (Express + MongoDB + JWT)
+
+Week 8 – Advanced backend concepts
+
+Redis intro (queues, pub/sub)
+
+Scaling WS and HTTP servers
+
+Node.js vs Go vs Rust discussion
+
+Advanced comms → WebSockets, TCP vs UDP
+
+Build a simple WebSocket server
+
+Mini project: Real-time Chat app
+(Express + WS + React client)
