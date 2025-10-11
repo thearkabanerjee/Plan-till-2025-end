@@ -149,3 +149,17 @@ Mini project: Real-time Chat app
 
 Goal: Move from developer → engineer mindset. Learn Next.js, testing, scaling, monorepos.
 Deliverables: Leetcode-style app, real-time scalable project, production deploy.
+
+Week 9 – Next.js + Full-stack integration
+
+SSR vs CSR, file-based routing, API routes
+
+Tailwind + Shadcn integration
+
+Data fetching, NextAuth (cookie-based)
+
+ISR, SSG
+
+Deployment to Vercel
+
+Project: Full-stack Notes app (Next.js + Prisma + PostgreSQL + NextAuth)
