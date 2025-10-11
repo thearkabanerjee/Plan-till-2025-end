@@ -86,3 +86,16 @@ Project: Gmail clone (frontend only)
 
 Goal: Master Node.js, Express, REST APIs, MongoDB, PostgreSQL, Prisma, and auth.
 Deliverables: Fully functional full-stack app (Excalidraw clone).
+
+
+Week 5 – Node.js fundamentals + Express basics
+
+What is a JS runtime (Node, Bun, Cloudflare)
+
+Node APIs: fs, fetch, axios, events
+
+HTTP servers, methods, routes
+
+Express intro: routes, middlewares, body parsing, static files
+
+Mini project: Simple REST API for Todos (no DB yet)
