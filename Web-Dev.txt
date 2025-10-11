@@ -38,3 +38,16 @@ Build a personal portfolio website
 Push to GitHub Pages
 
 Write a script that uses grep and pipes to analyze text files locally
+
+
+Week 2 – Deep JavaScript + DOM manipulation
+
+JS Advanced: map, filter, reduce, Promises, async/await
+
+DOM tree, selectors, event handling, localStorage
+
+Dynamic UI rendering
+
+Build a small reconciler to understand React under the hood
+
+Project: Pure Frontend Todo App (LocalStorage + DOM manipulation)
